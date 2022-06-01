@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to Pasar!](README.md)
-* [History Details](history-details.md)
+* [History Details](history-detials.md)
 * [Pasar Features](pasar-features.md)
 * [Roadmap](roadmap.md)
 
@@ -16,8 +16,8 @@
 ## Guides
 
 * [How to buy an NFT](guides/how-to-buy-an-nft.md)
-* [How to sell an NFT](guides/how-to-sell-an-nft.md)
-* [How to mint an NFT](guides/how-to-mint-an-nft.md)
+* [How to sell an NFT](getting-started/how-to-mint-an-nft.md)
+* [How to mint an NFT](getting-started/how-to-trade-an-nft.md)
 * [How to mint multiple NFTs](guides/how-to-mint-multiple-nfts.md)
 * [How to import an existing Collection](guides/how-to-import-an-existing-collection.md)
 * [How to creare an Own Collection](guides/how-to-creare-an-own-collection/README.md)
