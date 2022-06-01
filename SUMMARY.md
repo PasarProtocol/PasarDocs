@@ -1,14 +1,28 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [History Detials](history-detials.md)
+* [Welcome to Pasar!](README.md)
+* [History Details](history-details.md)
+* [Pasar Features](pasar-features.md)
 * [Roadmap](roadmap.md)
 
-## Getting started
+## Connect to Pasar
 
-* [Wallet](getting-started/wallet.md)
-* [How to mint an NFT](getting-started/how-to-mint-an-nft.md)
-* [How to trade an NFT](getting-started/how-to-trade-an-nft.md)
+* [DID vs Wallet](connect-to-pasar/did-vs-wallet.md)
+* [Login with Essentials](connect-to-pasar/login-with-essentials/README.md)
+  * [Desktop](connect-to-pasar/login-with-essentials/desktop.md)
+  * [Mobile](connect-to-pasar/login-with-essentials/mobile.md)
+* [Login with Metamask](connect-to-pasar/login-with-metamask.md)
+
+## Guides
+
+* [How to buy an NFT](guides/how-to-buy-an-nft.md)
+* [How to sell an NFT](guides/how-to-sell-an-nft.md)
+* [How to mint an NFT](guides/how-to-mint-an-nft.md)
+* [How to mint multiple NFTs](guides/how-to-mint-multiple-nfts.md)
+* [How to import an existing Collection](guides/how-to-import-an-existing-collection.md)
+* [How to creare an Own Collection](guides/how-to-creare-an-own-collection/README.md)
+  * [ERC721 standard](guides/how-to-creare-an-own-collection/erc721-standard.md)
+  * [ERC1155 standard](guides/how-to-creare-an-own-collection/erc1155-standard.md)
 
 ## Products
 
@@ -17,15 +31,30 @@
 * [Galleria](products/galleria.md)
 * [Assist Service](products/assist-service.md)
 
-## Addresses
+## Pasar Reputation System
 
-* [Contracts](addresses/contracts.md)
-* [Platform ](addresses/platform.md)
+* [Badges](pasar-reputation-system/badges.md)
+* [Verified Credentials](pasar-reputation-system/verified-credentials/README.md)
+  * [Kyc-me](pasar-reputation-system/verified-credentials/kyc-me.md)
+
+## Platform Details
+
+* [Platform Fees](platform-details/platform-fees.md)
+* [Contracts](platform-details/contracts.md)
+
+## Pasar Token
+
+* [$Pasar](pasar-token/usdpasar.md)
+* [Tokenomics](pasar-token/tokenomics.md)
 
 ## Developer
 
 * [SDKs](developer/sdks.md)
 * [HTTP Restful APIs](developer/http-restful-apis.md)
+
+## Elabox
+
+* [Run Pasar locally in your Elabox](elabox/run-pasar-locally-in-your-elabox.md)
 
 ## Resources
 
