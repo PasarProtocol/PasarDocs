@@ -1,7 +1,8 @@
 ---
 description: >-
-  A totally decentralized NFT and commnuty-driven marketplace developed on the
-  Elastos Smart Chain....
+  A truly decentralized NFT and community-driven marketplace developed on the
+  Elastos Smart Chain.
+cover: .gitbook/assets/pasar-collection-banner.jpg
 coverY: 0
 ---
 
