@@ -1,3 +1,9 @@
+---
+description: >-
+  Pasar has been evolved from side project into a fully standalone product and
+  platform with following features with the list of following items:
+---
+
 # Roadmap
 
 #### FINISHED
