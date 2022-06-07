@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to Pasar!](README.md)
-* [History Details](history-detials.md)
+* [Pasar history](pasar-history.md)
 * [Tokenomics](tokenomics.md)
 * [Pasar Features](pasar-features.md)
 * [Roadmap](roadmap.md)
