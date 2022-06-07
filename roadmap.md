@@ -26,15 +26,15 @@ description: >-
 * [ ] Decentralized reporting system
 * [ ] Decentralized reputation system
 * [ ] DAO organization form
-* [ ] Usecases integrated with Feeds (Decentralized Social Network)
+* [ ] Use-cases integrated with Feeds (Decentralized Social Network)
 * [ ] Trade crypto name
 * [ ] Trade customized DIDs
-* [ ] More DIA token uscases integrated
+* [ ] More DIA token use-cases integrated
 * [ ] Pasar subgraph APIs and SDKs
 * [ ] Video NFT&#x20;
 * [ ] Audio NFT
 * [ ] Freelancer marketplace
-* [ ] Data makretplace
+* [ ] Data marketplace
 * [ ] Credential marketplace
-* [ ] Multiple-chains (Ethereum/BSC) supported
-* [ ] Cross-chain (Ethereum/BSC) supported
+* [ ] Multiple chains (Ethereum/BNB Chain) supported
+* [ ] Cross-chain (Ethereum/BNB Chain) supported
