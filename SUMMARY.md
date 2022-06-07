@@ -53,7 +53,7 @@
 ## Developer
 
 * [SDKs](developer/sdks.md)
-* [HTTP Restful APIs](developer/http-restful-apis.md)
+* [HTTP RESTFUL APIs](developer/http-restful-apis.md)
 
 ## Elabox
 
