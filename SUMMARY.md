@@ -36,9 +36,9 @@
 ## Reputation System
 
 * [Introduction](reputation-system/introduction.md)
-* [Badges](reputation-system/badges.md)
-* [Verified Credentials](reputation-system/verified-credentials/README.md)
-  * [Kyc-me](reputation-system/verified-credentials/kyc-me.md)
+* [Badges](pasar-reputation-system/badges.md)
+* [Verified Credentials](pasar-reputation-system/verified-credentials/README.md)
+  * [Kyc-me](pasar-reputation-system/verified-credentials/kyc-me.md)
 
 ## Platform Details
 
