@@ -6,7 +6,7 @@ description: Pasar project has it's own story we would like to share with the co
 
 Pasar Decentralised Marketplace (DeMKT) started as part of the Feeds mobile application, and was presented as an attractive feature for users to mint and trade NFTs on ESC. It was the very first NFT collection and marketplace on the Elastos ecosystem.&#x20;
 
-![](.gitbook/assets/screen-1.png)
+![](.gitbook/assets/screen-2.png)
 
 When the NFT features in Feeds became popular, and since it's a standalone feature From Feeds application, a proposal has been made for funding from the Cyber Republic (Elastos DAO) to launch the Pasar web application, therefore Pasar became a separate branding project, and is officially separated from Feeds.&#x20;
 
