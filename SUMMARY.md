@@ -28,6 +28,7 @@
 ## Products
 
 * [Explorer](products/explorer.md)
+* [Collections](products/collections.md)
 * [Marketplace](products/marketplace.md)
 * [Galleria](products/galleria.md)
 * [Assist Service](products/assist-service.md)
