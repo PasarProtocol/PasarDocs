@@ -26,6 +26,7 @@ description: >-
 * [ ] Decentralized reporting system
 * [ ] Decentralized reputation system
 * [ ] DAO organization form
+* [ ] Galleria to showcases NFTs
 * [ ] Use-cases integrated with Feeds (Decentralized Social Network)
 * [ ] Trade crypto name
 * [ ] Trade customized DIDs
