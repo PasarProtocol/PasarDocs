@@ -53,11 +53,11 @@
 ## Developer
 
 * [SDKs](developer/sdks.md)
-* [HTTP RESTFUL APIs](developer/http-restful-apis.md)
+* [HTTP Restful APIs](developer/http-restful-apis.md)
 
-## Elabox
+## PARTNERS
 
-* [Run Pasar locally in your Elabox](elabox/run-pasar-locally-in-your-elabox.md)
+* [ElaBox](partners/elabox.md)
 
 ## Resources
 
