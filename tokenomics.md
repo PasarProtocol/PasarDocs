@@ -9,3 +9,10 @@ description: >-
 {% hint style="info" %}
 Tokenomics solution is nearly finalized, and development is on the way.
 {% endhint %}
+
+Pasar tokenomics contracts would made up four following contracts:
+
+* PASAR ERC20 Token contract
+* PASAR mining reward contract
+* PASAR staking reward contract
+* PASAR token vesting contract
