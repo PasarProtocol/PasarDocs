@@ -47,7 +47,7 @@
 
 ## Pasar Token
 
-* [$Pasar](pasar-token/usdpasar.md)
+* [$PASAR](pasar-token/usdpasar.md)
 * [Tokenomics](pasar-token/tokenomics.md)
 
 ## Developer
