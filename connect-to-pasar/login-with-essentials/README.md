@@ -14,9 +14,9 @@ As you can see, Pasar is deeply integrated with DIDs, and use DID to store Profi
 * When users list NFTs onto Pasar market
 * When users buy NFTs on Pasar market
 
-Generally users would use token wallet to make transaction, while use DID to present as identify to interact with someone else or third-parties in verifiable cryptography.
+Generally users would use token wallet to make transaction onto contracts, while use DID to present as general identify to interact with someone else or third-parties in verifiable cryptography.
 
-DID can uniquely identify the user himeself, and also can organize all properties or information related to the user, like the owned wallet addreses, certificates to be the verifiable credentials to this DID. Therefore those information as verifiable credentials can be easily authenticated and verified by other users or third-parties.
+DID can uniquely identify the user by himself, and also it's easy organize all properties or information related to the user, like the owned wallet addreses, certificates to be verifiable credentials to this DID. Therefore the information as verifiable credentials can be easily authenticated and verified by other users or third-parties.
 
 In this reason, the users are required to use Essentials to mint and list NFTs on Pasar with users DID involved, therefore it might be reduce the risk of being scamed on the market, especially the creator of NFTs has the badge of KYC-ed credential.
 
