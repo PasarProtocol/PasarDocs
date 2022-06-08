@@ -26,7 +26,8 @@ Then users need open Essentials on device, and click "Scan" button to scan the Q
 
 ![Scan Qrcode from Essentials](../../.gitbook/assets/essential-scan-button.png)
 
-After clicking the button and scanning the qrcode, then it will prompt a series of pages to ask your approval.&#x20;
+After clicking the button and scanning the qrcode, then it will prompt a series of pages to ask your approval.  Users need to click "Connect" button to start wallet connection between Essentials and Pasar web application. And once Wallet connection session established, then it will request to users to authorize to issue name credenital (in this case) to Pasar web application.&#x20;
 
 ![Connect Wallet connection](<../../.gitbook/assets/IMG\_00F915F6501B-1 (1).jpeg>) ![Approve name credentials](../../.gitbook/assets/IMG\_420E93012964-1.jpeg) ![Wallet connection established](../../.gitbook/assets/IMG\_A4F280500247-1.jpeg)
 
+Once users finish all confirmation process, then the wallet connection between Elastos Essentials and Pasar web application has been established. Then users can make transactions on web application by confirmation from Essetnials, like to mint NFTs and trade NFTs etc.
