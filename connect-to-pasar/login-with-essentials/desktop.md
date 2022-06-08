@@ -26,4 +26,7 @@ Then users need open Essentials on device, and click "Scan" button to scan the Q
 
 ![Scan Qrcode from Essentials](../../.gitbook/assets/essential-scan-button.png)
 
-Here is the whole recording video to
+After clicking the button and scanning the qrcode, then it will prompt a series of pages to ask your approval.&#x20;
+
+![Connect Wallet connection](<../../.gitbook/assets/IMG\_00F915F6501B-1 (1).jpeg>) ![Approve name credentials](../../.gitbook/assets/IMG\_420E93012964-1.jpeg) ![Wallet connection established](../../.gitbook/assets/IMG\_A4F280500247-1.jpeg)
+
