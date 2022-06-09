@@ -37,6 +37,6 @@ In order to make Pasar a popular advanced marketplace to trade data assets, A li
 * Simple social network features are integrated via storing and sharing Profile data from Hive/Vault, a new decentralized storage network of hive nodes.
 * KYC-ed credentials integrated as a badge to present a better reputation
 
-## Conclusion
+## Current Stage
 
 Now, Pasar web application is a fully standalone platform project, and it's on the way to being a community-driven project. Pasar team is currently working on PASAR tokenomics solution. With tokenomics integrated, users can earn rewards from trading NFTs on Pasar DeMKT.&#x20;
