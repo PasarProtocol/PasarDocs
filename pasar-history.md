@@ -1,39 +1,42 @@
 ---
-description: Pasar project has it's own story we would like to share with the community.
+description: Pasar has its own story we would like to share with the community.
 ---
 
 # Pasar history
+
+## A project derived from Feeds
 
 Pasar Decentralised Marketplace (DeMKT) started as part of the Feeds mobile application, and was presented as an attractive feature for users to mint and trade NFTs on ESC. It was the very first NFT collection and marketplace on the Elastos ecosystem.&#x20;
 
 ![](.gitbook/assets/screen-2.png)
 
-When the NFT features in Feeds became popular, and since it's a standalone feature From Feeds application, a proposal has been made for funding from the Cyber Republic (Elastos DAO) to launch the Pasar web application, therefore Pasar became a separate branding project, and is officially separated from Feeds.&#x20;
+When the NFT features in Feeds became popular, and since it's a standalone feature From Feeds, a proposal has been made for funding from the Cyber Republic (Elastos DAO) to launch the Pasar web application, therefore Pasar became a standalone branding project, and is officially independent of Feeds.&#x20;
 
-## Evolved Stages
+## Three Stages of its evolution
 
-According to the [Pasar Proposal](https://www.cyberrepublic.org/proposals/61953f89eb709a00784155ab), Pasar web application has evolved in three stages.
+> Pasar is arguably the first real NFT marketplace on Elastos Smart Chain (ESC). It was initially developed within Feeds due to two main factors. The first was to increase activity on ESC by building a simple NFT marketplace to introduce Feeds through Pasar. As a result, we saw more than 300% growth in new users signing in to Feeds using DIDs accessing the marketplace (data based on Google Play Store installation data).
+
+Pasar project officially began its own journey since the [Pasar proposal](https://www.cyberrepublic.org/proposals/61953f89eb709a00784155ab) was accepted. Three phases with features are clearly listed in verifiable details.&#x20;
 
 ### Pasar Explorer
 
-Pasar explorer is live after the first milestone in Proposal finished. Users can browse and explore any NFTs or transactions on the DeMKT.  The provenances of all NFTs on Feeds collection and transactions on Market can be easily checked and verified.
+Pasar explorer is the first feature in the proposal we finished. With Pasar explorer, users can browse and explore any NFTs or transactions on the product.  The provenances of all NFTs on Feeds collection and transactions can be easily checked and verified.
 
-### Pasar V1 Market
+### Classic Market
 
-Pasar marketplace v1 is available with the same features as Feeds mobile app after the second milestone in the proposal finished, but users can mint NFTs from only one general collection (Feeds FTSK Sticker) and trade NFTs with the fixed $ELA pricing.&#x20;
+Pasar classic marketplace (V1 market) was available when we finished the second milestone in the proposal, with the features as same as the ones on Feeds mobile application. Users can mint NFTs from Pasar web application, but only support one public collection - Feeds FTSK Sticker. And users can trade NFTs with buyout feature.&#x20;
 
-### Pasar V2 Market
+### Advanced Market
 
-To make Pasar be a popular marketplace to trade data assets, there is a list of significant features now integrated in Pasar v2, like:
+In order to make Pasar a popular advanced marketplace to trade data assets, A list of significant features is contained in the third stage of the proposal:
 
-* Dedicated collection support
-* ERC20 tokens as pricing tokens
-* Batch minting and selling support
-* Auction with a reserve price and buyback price support
-* $DIA holders featured use cases
-* Profile data stored and shared from Hive/Vault
+* Besides one public channel like Feeds collection, users (generally artists) can create their own dedicated collection to hold all their creative NFTs;
+* Other than using a native ELA token, users can trade NFTs with other ERC20 tokens, like DIA/GLIDE/ELK/USDC/BUSD, etc;
+* Users can mint and list NFTs in batches, which helps users reduce the spending time;
+* Advanced auction mechanism supported. Besides basic auction features for sale, sellers can set reserve prices and buyout prices to meet actual demand;
+* Simple social network features are integrated via storing and sharing Profile data from Hive/Vault, a new decentralized storage network of hive nodes.
 * KYC-ed credentials integrated as a badge to present a better reputation
 
 ## Conclusion
 
-Now, Pasar web application is already a fully standalone project, and is on the way to be community-driven project. Pasar team is currently working on PASAR tokenomics, and then users can earn rewards from trading NFTs on Pasar DeMKT.&#x20;
+Now, Pasar web application is a fully standalone platform project, and it's on the way to being a community-driven project. Pasar team is currently working on PASAR tokenomics solution. With tokenomics integrated, users can earn rewards from trading NFTs on Pasar DeMKT.&#x20;
