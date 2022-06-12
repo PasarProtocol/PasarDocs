@@ -7,8 +7,10 @@ description: >-
 # Tokenomics
 
 {% hint style="info" %}
-Tokenomics solution is nearly finalized, and development is on the way.
+_<mark style="color:yellow;">**Notice**</mark><mark style="color:yellow;">: tokenomics solution is nearly finalized, and development is under the way</mark>._
 {% endhint %}
+
+
 
 Pasar tokenomics contracts would made up four following contracts:
 

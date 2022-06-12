@@ -1,7 +1,7 @@
 ---
 description: >-
-  Pasar has been evolved from being side feature in Feeds into a fully
-  standalone platform product with the list of following features:
+  Pasar has been evolved from a side feature in Feeds into a fully standalone
+  platform with the list of following features:
 ---
 
 # Roadmap
@@ -9,10 +9,10 @@ description: >-
 #### FINISHED
 
 * [x] Pasar Explorer
-* [x] Pasar V1 DeMKT with only Feeds FSTK Sticker collection and V1 Marketplace
-* [x] Pasar V1 DeMKT on Elabox
+* [x] Pasar classic market with only Feeds FSTK Sticker collection
+* [x] Pasar classic market integrated onto Elabox
 * [x] Pasar V2 DeMKT with dedicated collections and auction supported
-* [x] ERC20-token as pricing token
+* [x] ERC20-token as pricing tokens
 * [x] KYC-ed credential integrated
 * [x] User profile stored and shared from Hive/Vault
 
@@ -26,7 +26,7 @@ description: >-
 * [ ] Decentralized reporting system
 * [ ] Decentralized reputation system
 * [ ] DAO organization form
-* [ ] Galleria to showcases NFTs
+* [ ] Galleria to showcase NFTs as a different type of market
 * [ ] Use-cases integrated with Feeds (Decentralized Social Network)
 * [ ] Trade crypto name
 * [ ] Trade customized DIDs
