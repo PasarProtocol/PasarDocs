@@ -21,18 +21,18 @@ description: >-
 * [ ] ERC20 Pasar tokenomics (Mining rewards/Staking rewards)
 * [ ] Docs construction
 
-#### SHORT-TERM  PLANS
+#### SHORT-TERM
 
 * [ ] Galleria marketplace to showcase NFTs
 * [ ] Trade customized DIDs
 * [ ] Decentralized reporting system
 * [ ] Pasar DAO building
 
-#### LONG-TERM PLANS
+#### LONG-TERM
 
 * [ ] Basic decentralized reputation system
 * [ ] Feeds integration
 * [ ] Video/Audio NFT&#x20;
 * [ ] Data marketplace other than NFTs
-* [ ] Pasar on multiple-chains
+* [ ] Pasar on multiple-chain
 * [ ] Pasar on cross-chain
