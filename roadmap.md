@@ -21,21 +21,18 @@ description: >-
 * [ ] ERC20 Pasar tokenomics (Mining rewards/Staking rewards)
 * [ ] Docs construction
 
-#### NEXT PLANS
+#### SHORT-TERM  PLANS
 
-* [ ] Decentralized reporting system
-* [ ] Decentralized reputation system
-* [ ] DAO organization form
-* [ ] Galleria to showcase NFTs as a different type of market
-* [ ] Use-cases integrated with Feeds (Decentralized Social Network)
-* [ ] Trade crypto name
+* [ ] Galleria marketplace to showcase NFTs
 * [ ] Trade customized DIDs
-* [ ] More DIA token use-cases integrated
-* [ ] Pasar subgraph APIs and SDKs
-* [ ] Video NFT&#x20;
-* [ ] Audio NFT
-* [ ] Freelancer marketplace
-* [ ] Data marketplace
-* [ ] Credential marketplace
-* [ ] Multiple chains (Ethereum/BNB Chain) supported
-* [ ] Cross-chain (Ethereum/BNB Chain) supported
+* [ ] Decentralized reporting system
+* [ ] Pasar DAO building
+
+#### LONG-TERM PLANS
+
+* [ ] Basic decentralized reputation system
+* [ ] Feeds integration
+* [ ] Video/Audio NFT&#x20;
+* [ ] Data marketplace other than NFTs
+* [ ] Pasar on multiple-chains
+* [ ] Pasar on cross-chain
