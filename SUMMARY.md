@@ -9,6 +9,7 @@
 ## Connect to Pasar
 
 * [DID vs Wallet](connect-to-pasar/did-vs-wallet.md)
+* [Essential Setup](connect-to-pasar/essential-setup.md)
 * [Login with Essentials](connect-to-pasar/login-with-essentials/README.md)
   * [Desktop](connect-to-pasar/login-with-essentials/desktop.md)
   * [Mobile](connect-to-pasar/login-with-essentials/mobile.md)
