@@ -1,7 +1,7 @@
 ---
 description: >-
-  Pasar has been evolved from a side feature in Feeds into a fully standalone
-  platform with the list of following features:
+  Pasar has been evolved from being a side feature in Feeds into a fully
+  standalone platform with the list of following features:
 ---
 
 # Roadmap
