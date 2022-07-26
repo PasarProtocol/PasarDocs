@@ -11,8 +11,8 @@ Before proceeding make sure you have <mark style="color:purple;">**Elastos Essen
 For the Essentials setup you can follow the tutorial linked below
 {% endhint %}
 
-{% content-ref url="../essential-setup.md" %}
-[essential-setup.md](../essential-setup.md)
+{% content-ref url="../essentials-setup.md" %}
+[essentials-setup.md](../essentials-setup.md)
 {% endcontent-ref %}
 
 ## Video Tutorial
@@ -36,7 +36,7 @@ From this screen you can choose the Wallet to log in with, you have two options:
   If you don't know what a DID is you can press _**"What is a DID?"**_ in this page.\
   If you don't have a Wallet you can press _**"I Don't Have A Wallet"**_ and download <mark style="color:purple;">**Elastos Essentials**</mark>.
 
-You can follow the guide here: [essential-setup.md](../essential-setup.md "mention")
+You can follow the guide here: [essentials-setup.md](../essentials-setup.md "mention")
 
 ![](<../../.gitbook/assets/Connect to Pasar - Sign In Modal.png>)
 

@@ -2,7 +2,7 @@
 description: How to setup the Elastos Essentials super-wallet.
 ---
 
-# Essential Setup
+# Essentials Setup
 
 {% hint style="info" %}
 Before proceeding with the configuration, you must download and install Elastos Essentials:
@@ -41,7 +41,7 @@ To make transactions or change data, you <mark style="color:red;">**need**</mark
 
 {% hint style="warning" %}
 The _<mark style="color:blue;">Master Password</mark>_ <mark style="color:blue;"></mark><mark style="color:blue;"></mark> is <mark style="color:red;">**not**</mark> absolutely necessary to restore your identity and your wallet, it is <mark style="color:red;">deleted</mark> and can be <mark style="color:green;">recreated</mark> when Elastos Essentials data is deleted. \
-Be sure to[ <mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Backup your Mnemonics**</mark>](essential-setup.md#step-6-backup-of-your-mnemonics).
+Be sure to[ <mark style="color:orange;"></mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Backup your Mnemonics**</mark>](essentials-setup.md#step-6-backup-of-your-mnemonics).
 {% endhint %}
 
 ![](<../.gitbook/assets/Essentials Setup - Master Password.png>)
@@ -67,7 +67,7 @@ At this point, once the <mark style="color:blue;">Master Password</mark> has bee
 1. Close <mark style="color:purple;">**Essentials**</mark> and delete it from Recent apps;
 2. Open <mark style="color:purple;">**Essentials**</mark>, on the home screen scroll down, and log out of the "half-created" identity by pressing the "logout" button;
 3. You should now be on the Identities screen, proceed by <mark style="color:red;">**deleting**</mark> the old identity, press on the three dots and press <mark style="color:red;">**Delete**</mark>;
-4. Create a new Identity starting from[ **Step 1**](essential-setup.md#step-1-select-the-language).
+4. Create a new Identity starting from[ **Step 1**](essentials-setup.md#step-1-select-the-language).
 
 </details>
 
